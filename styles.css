@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/N45Uj70f2Vg/maxresdefault.jpg");
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+
+#p {
+    color: white;
+}
+
+.img {
+    display: none;
+    width: 200px;
+}
